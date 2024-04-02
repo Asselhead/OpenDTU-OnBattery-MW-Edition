@@ -9,4 +9,5 @@ Erster Eindruck von der Leiterplatte
 ![PCB.png](https://github.com/Asselhead/OpenDTU-OnBattery-MW-Edition/blob/main/PCB.png)
 
 
-[Schaltung]
+[Schaltung](https://github.com/Asselhead/OpenDTU-OnBattery-MW-Edition/blob/main/Schematic_V01.pdf)
+
