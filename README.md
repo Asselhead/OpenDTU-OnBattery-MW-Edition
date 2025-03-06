@@ -6,8 +6,8 @@ Die Idee zu dieser Abwandlung von OpenDTU-OnBattery stammt von skippermeister.
 
 Erster Eindruck von der Leiterplatte
 
-![PCB.png](https://github.com/Asselhead/OpenDTU-OnBattery-MW-Edition/blob/main/PCB.png)
+![oDTUoB_MW_V1_1.png](https://github.com/Asselhead/OpenDTU-OnBattery-MW-Edition/blob/main/oDTUoB_MW_V1_1.png)
 
 
-[Schaltung](https://github.com/Asselhead/OpenDTU-OnBattery-MW-Edition/blob/main/Schematic_V02.pdf)
+[Schaltung](https://github.com/Asselhead/OpenDTU-OnBattery-MW-Edition/blob/main/openDTU_onBattery_V1_1.pdf)
 
